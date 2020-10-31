@@ -1,0 +1,2 @@
+include bandupy/custom_colormaps/*.cmap
+include bandupy/plot_gui/*.ui
